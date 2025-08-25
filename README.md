@@ -18,3 +18,9 @@ MEDIUM
 Yuri Novicow
 dependency injection WITHOUT get_it
 https://medium.com/@yurinovicow/flutter-admob-banner-with-getx-drop-in-solution-2e4f36fad413
+
+
+
+DevVibe
+Flutter Dependency Injection Tutorial | Clean Architecture + BLoC + Dio + get_it Explained
+https://www.youtube.com/watch?v=m-YpuUjqZpk
