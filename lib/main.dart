@@ -35,7 +35,11 @@ class HomePage extends StatelessWidget {
           centerTitle: true,
           title: const Text(
             'Dependency Injection with get_it',
-            style: TextStyle(fontSize: 14),
+            style: TextStyle(
+              fontSize: 18,
+              color: Colors.white,
+              fontWeight: FontWeight.w600,
+            ),
           ),
           backgroundColor: const Color(0xff1D1E22)
       ),

@@ -1,8 +1,9 @@
 # flutter_dependency_injection
+updated to Flutter 3.16.6
 
 A new Flutter project.
 
-DEPENDENCY INJECTIO with PACKAGE get_it
+DEPENDENCY INJECTION with PACKAGE get_it
 
 - singleton
 - factory
